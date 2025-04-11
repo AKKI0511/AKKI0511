@@ -1,13 +1,14 @@
-👋 Hi, I'm Akshat—a full-stack developer and AI engineer passionate about creating intelligent solutions from the ground up. I build scalable, robust AI systems and enjoy solving challenging problems, consistently ranking in the top 1.4% on LeetCode. If you're excited about innovative AI-driven projects or building impactful software, let's connect!
+👋 **Hi, I'm Akshat**—an AI engineer and full-stack developer who loves turning complex ideas into powerful, intelligent solutions. I specialize in building scalable AI systems and robust applications from scratch, and consistently rank in the **top 1.4%** on LeetCode. If you're passionate about innovative AI-driven projects or impactful software, let's connect!
 
 ---
 
 ### 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white)
-![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-Expert-green)
+![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-yellow?logo=typescript&logoColor=white)
 ![Agentic AI Development](https://img.shields.io/badge/Agentic%20AI%20Development-Innovative-purple)
 ![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-Proficient-orange?logo=javascript&logoColor=white)
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-Expert-green)
 
 ---
 
@@ -25,7 +26,7 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Joshi-blue?logo=linkedin)](https://www.linkedin.com/in/akkijoshi0511/) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-AKKI0511-orange?logo=leetcode)](https://leetcode.com/u/AKKI0511/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-AKKI0511-orange?logo=leetcode)](https://leetcode.com/u/AKKI0511/)  
 
 <!--
 
