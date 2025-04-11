@@ -1,15 +1,31 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Joshi-blue?logo=linkedin)](https://www.linkedin.com/in/akkijoshi0511/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-AKKI0511-orange?logo=leetcode)](https://leetcode.com/u/AKKI0511/)
-[![GitHub](https://img.shields.io/badge/GitHub-AKKI0511-black?logo=github)](https://github.com/AKKI0511/)
-
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white)
-![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-Advanced-green)
-![Agentic AI Development](https://img.shields.io/badge/Agentic%20AI%20Development-Innovative-purple)
-![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-Proficient-orange?logo=javascript&logoColor=white)
-
 👋 Hi, I'm Akshat—a full-stack developer and AI engineer passionate about creating intelligent solutions from the ground up. I build scalable, robust AI systems and enjoy solving challenging problems, consistently ranking in the top 1.4% on LeetCode. If you're excited about innovative AI-driven projects or building impactful software, let's connect!
 
 ---
+
+### 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python&logoColor=white)
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-Expert-green)
+![Agentic AI Development](https://img.shields.io/badge/Agentic%20AI%20Development-Innovative-purple)
+![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-Proficient-orange?logo=javascript&logoColor=white)
+
+---
+
+### 🔬 Publications
+
+- **AgentConnect: Decentralized Collaboration Framework for Independent AI Agents**  
+  *Akshat Joshi, Ravikant Agrawal*  
+  Published on ReadyTensor, March 31, 2025.  
+  [Read Publication](https://app.readytensor.ai/publications/agentconnect-decentralized-collaboration-framework-for-independent-ai-agents-RLFuglEDiwwS) 
+
+  > AgentConnect introduces a decentralized communication and discovery layer that enables independent AI agents to dynamically find, interact, and collaborate securely. Unlike traditional, centrally controlled multi-agent systems, AgentConnect fosters a peer-to-peer ecosystem where agents built using diverse tools and frameworks can interoperate based on advertised capabilities.
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Joshi-blue?logo=linkedin)](https://www.linkedin.com/in/akkijoshi0511/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-AKKI0511-orange?logo=leetcode)](https://leetcode.com/u/AKKI0511/)
 
 <!--
 
