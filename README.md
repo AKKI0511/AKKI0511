@@ -1,4 +1,4 @@
-👋 **Hi, I'm Akshat**—an AI engineer and full-stack developer who loves turning complex ideas into powerful, intelligent solutions. I specialize in building scalable AI systems and robust applications from scratch, and consistently rank in the **top 0.61%** on LeetCode. If you're passionate about innovative AI-driven projects or impactful software, let's connect!
+👋 **Hi, I'm Akshat**—an AI engineer and full-stack developer who loves turning complex ideas into powerful, intelligent solutions. I specialize in building scalable AI systems and robust applications from scratch, and consistently rank in the **top 0.6%** on LeetCode. If you're passionate about innovative AI-driven projects or impactful software, let's connect!
 
 ---
 
@@ -15,7 +15,7 @@
 ### 🔬 Publications
 
 - **AgentConnect: Decentralized Collaboration Framework for Independent AI Agents**  
-  *Akshat Joshi, Ravikant Agrawal*  
+  *Akshat Joshi*  
   Published on ReadyTensor, March 31, 2025.  
   [Read Publication](https://app.readytensor.ai/publications/agentconnect-decentralized-collaboration-framework-for-independent-ai-agents-RLFuglEDiwwS) 
 
